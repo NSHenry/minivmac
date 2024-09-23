@@ -18,7 +18,7 @@ fi
         -cpu a64 \
         -m II \
         -hres 800 -vres 600 -depth 3 \
-        -magnify 1 \
+        -magnify 0 \
         -mf 2 \
         -sound 1 \
         -sony-sum 1 -sony-tag 1 \
